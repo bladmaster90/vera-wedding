@@ -21,7 +21,7 @@
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="foto/model/pengantin 3.JPG" style="width:10%"  width="360" height="450">
+  <img src="foto/model/pengantin 3.JPG" style="width:100%"  width="360" height="450">
   
 </div>
 
