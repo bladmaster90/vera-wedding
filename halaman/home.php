@@ -9,19 +9,19 @@
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="foto/model/pengantin 4.JPG">
+  <img src="foto/model/pengantin 4.JPG" style="width:100%" width="360" height="450">
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="foto/model/pengantin 2.PNG">
+  <img src="foto/model/pengantin 2.PNG" style="width:100%"  width="360" height="450">
  
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="foto/model/pengantin 3.JPG">
+  <img src="foto/model/pengantin 3.JPG" style="width:10%"  width="360" height="450">
   
 </div>
 
