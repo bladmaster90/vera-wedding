@@ -4,24 +4,24 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="style.css">
 <body>
-
+<center><h2> Vera Wedding Organizer </h2></center>
 <div class="slideshow-container">
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="foto/model/pengantin 4.JPG" style="width:100%" width="360" height="450">
+  <img src="foto/pengantin/pengantin 3.JPG" style="width:100%" width="360" height="450">
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="foto/model/pengantin 2.PNG" style="width:100%"  width="360" height="450">
+  <img src="foto/pengantin/pengantin 2.PNG" style="width:100%"  width="360" height="450">
  
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="foto/model/pengantin 3.JPG" style="width:100%"  width="360" height="450">
+  <img src="foto/pengantin/pengantin 5.JPG" style="width:100%"  width="360" height="450">
   
 </div>
 
