@@ -19,17 +19,17 @@ $(".preloader").fadeOut();
 </div>
 <div class="content">
 	<header>
-		<h4 class="logo"><img src="foto/2/logo1.png" width="300" height="200" /></h4>
+		<h4 class="logo"><img src="foto/menu/logo.png" width="300" height="200" /></h4>
 		<h2 align="center">Vera Wedding Organizer</h2>
 <div class="menu">
 	<nav>
 	<ul>
 		<li><a href="index.php?page=home">Beranda</a></li>
+        <li><a href="index.php?page=galeri">Galeri</a></li>
+        <li><a href="index.php?page=paket">Daftar Paket</a></li>
+		<li><a href="index.php?page=booking">Booking</a></li>
 		<li><a href="index.php?page=tentang">Tentang</a></li>
-		<li><a href="index.php?page=register">Booking</a></li>
-		<li><a href="index.php?page=foto">Galeri</a></li>
-		<li><a href="index.php?page=Jadwal_latihan">Menu 5</a></li>
-		<li><a href="index.php?page=Staff">menu 6</a></li>
+		 <!--<li><a href="index.php?page=Staff">menu 6</a></li>-->
 	</ul>
 </nav>
 </div> 
@@ -46,17 +46,20 @@ if(isset($_GET['page'])){
 		case 'tentang':
 			include"halaman/tentang.php";
 			break;
-		case 'register':
+		case 'booking':
 			include"halaman/booking.php";
 			break;
+        case 'paket':
+            include"halaman/paket.php";
+            break;
 		case 'Staff':
 			include"halaman/galeri.php";
 			break;
 		case 'Jadwal_latihan';
 			include"halaman/menu 5.php";
 			break;
-		case 'foto';
-			include"halaman/menu 6.php";
+		case 'galeri';
+			include"halaman/galeri.php";
 			break;
 
 		default:
